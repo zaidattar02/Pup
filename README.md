@@ -22,5 +22,10 @@ Based on the schedules you picked, you will recieve local notifications to remin
 
 <img width="420" alt="notification" src="https://user-images.githubusercontent.com/92101356/154276175-3ba86cca-f5c3-44ec-a19b-07a9b1f1fe0b.png">
 
-When you press the notification it will take you to the app's second view. With Pup, transition into the dog lifestyle responsibly!
+When you press the notification it will take you to the app's second view.
+
+The design of the app is pretty simple, the big blue button in the homepage which takes in your dog's name. As well as the pictures in the second view that are related to the feeding/showering schedule and the menu list.
+I was hoping to take the app to the next level by creating a social section, where all the dog owners in your area could chat and arrange meet ups with their dogs at local parks.
+
+With Pup, transition into the dog lifestyle responsibly!
 
