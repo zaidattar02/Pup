@@ -1,6 +1,6 @@
 # Pup
 ### Video Demo: URL
-### Pup is an ios app I made using swift created to help all dog parents with the responsibility of owning a puppy.
+### Pup is an iOS app I made using swift created to help all dog parents with the responsibility of owning a puppy.
 
 When you open the app you are greeted by the homepage that asks you to enter your dog's name.
 <img width="409" alt="pup homepage" src="https://user-images.githubusercontent.com/92101356/154273559-74b510e3-7746-484b-b516-3047f65cd98e.png">
